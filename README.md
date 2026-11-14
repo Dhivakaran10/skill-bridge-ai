@@ -1,5 +1,5 @@
 # skill-bridge-ai
-Project description
+Project description 
 SkillBridge AI – AI-Powered Personalized Learning & Career Guidance Platform
 
 SkillBridge AI is an intelligent learning platform designed to bridge the gap between an individual's current skills and their desired career goals.
