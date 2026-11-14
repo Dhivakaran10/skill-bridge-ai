@@ -1,5 +1,4 @@
 # skill-bridge-ai
-carear guidence 
 Project description
 SkillBridge AI – AI-Powered Personalized Learning & Career Guidance Platform
 
